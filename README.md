@@ -31,10 +31,17 @@ the outcome is limited to one of the two possible outcomes: its either yes/no, t
 Import section with all the required libraries to run the codes:
 
 import nltk
+
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
 from newsapi import NewsApiClient
+
 from datetime import date, timedelta, datetime
+
 import matplotlib.pyplot as plt
+
 import numpy as np
+
 import pandas as pd
+
 import yfinance as yf
