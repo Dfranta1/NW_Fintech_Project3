@@ -1,4 +1,4 @@
-# Group Project 2
+# Group Project 3
 
 ## INTRODUCTION:
 The focus of this project is to analyze stocks using 30 day data, applying latest news for sentiment analysis to see whether it is positive or negative indicators.
