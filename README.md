@@ -85,6 +85,9 @@ It provides a reading of the demand for a security, and possible turning points 
 
 Sources
 [Investopedia](https://www.investopedia.com/)
+
 [Fidelity](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/overview)
+
 [TA-Lib Documentation](https://mrjbq7.github.io/ta-lib/doc_index.html)
-[Wealth Lab](https://www2.wealth-lab.com/wl5wiki/HTPeriod.ashx#:~:text=HTPeriod%20(or%20MESA%20Instantaneous%20Period,function%20of%20the%20Price%20Series.)
+
+[Wealth Lab](https://www2.wealth-lab.com/wl5wiki/HTPeriod.ashx#:~:text=HTPeriod%20(or%20MESA%20Instantaneous%20Period,function%20of%20the%20Price%20Series)
