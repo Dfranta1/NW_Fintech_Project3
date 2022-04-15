@@ -84,6 +84,7 @@ It provides a reading of the demand for a security, and possible turning points 
 
 
 Sources
+
 [Investopedia](https://www.investopedia.com/)
 
 [Fidelity](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/overview)
