@@ -7,7 +7,6 @@ then with the help of Natural Language Processing(NLP) techniques such as sentim
 We are using Yfinance to pull the data. We will be using S&P 500 for stock analysis. Tickers were separated from Dataframe and adjusted close price used for visualization. 
 
 
-
 ## DATA PREPARATION:
 With API News pull we were able to get only one month of historical data for free. 
 Pulled stock data using Yfinance for 90 days(from january 19, 2022 through april 12, 2022). 
@@ -25,6 +24,8 @@ It can handle large datasets efficiently. and gives high level of accuracy on pr
 LOGISTIC REGRESSION- is a supervised learning algorithm used in machine learning to predict the probability of a binary outcome. Logical regression is used in predictive modeling to analyze large datasets in which one or more independent variables can determine an outcome.
 the outcome is limited to one of the two possible outcomes: its either yes/no, true/false, 1/0.
 
+We used the VADER Sentiment analysis program to analyze our News API articles. VADER stands for: “Valence Aware Dictionary and Sentiment Reasoner”
+VADER divides the sentiment into three categories. Positive; Neutral; and Negative, from which it generates four scores: Positive (pos); Negative (neg); Neutral (neu) and a Compound Score.
 
 
 ## TECHNICAL- 
