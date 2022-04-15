@@ -90,4 +90,4 @@ Sources
 
 [TA-Lib Documentation](https://mrjbq7.github.io/ta-lib/doc_index.html)
 
-[Wealth Lab](https://www2.wealth-lab.com/wl5wiki/HTPeriod.ashx#:~:text=HTPeriod%20(or%20MESA%20Instantaneous%20Period,function%20of%20the%20Price%20Series)
+
