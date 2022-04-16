@@ -37,6 +37,10 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 from newsapi import NewsApiClient
 
+import os
+
+from dotenv import load_dotenv, find_dotenv
+
 from datetime import date, timedelta, datetime
 
 import hvplot.pandas
