@@ -39,6 +39,8 @@ from newsapi import NewsApiClient
 
 from datetime import date, timedelta, datetime
 
+import hvplot.pandas
+
 import matplotlib.pyplot as plt
 
 import numpy as np
