@@ -51,7 +51,15 @@ import talib
 
 import numpy as np
 
-import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+
+from sklearn.model_selection import train_test_split
+
+from sklearn.ensemble import RandomForestClassifier
+
+from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
+
+from collections import Counter
 
 # Definitions of Technical Indicators Used from TA LIB
 
